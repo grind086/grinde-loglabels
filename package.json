@@ -1,11 +1,19 @@
 {
   "name": "grinde-loglabels",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple module to add static prefixes to logs",
   "main": "index.js",
   "author": "Rob Grindeland",
   "license": "ISC",
   "devDependencies": {
     "uglify-js": "^2.8.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grind086/grinde-loglabels.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grind086/grinde-loglabels/issues"
+  },
+  "homepage": "https://github.com/grind086/grinde-loglabels#readme"
 }
