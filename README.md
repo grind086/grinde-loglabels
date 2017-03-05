@@ -157,3 +157,13 @@ childB.log('From child C!');
 // -> [B] From child B!
 // -> [LOG][another][prefix] From child C!
 ```
+
+## Building
+
+`build.js` simply copies `index.js` to `dist/loglabels.js` and minifies it using
+UglifyJS to `dist/loglabels.min.js`.
+
+```
+npm install
+node ./build
+```
