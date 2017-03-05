@@ -1,0 +1,11 @@
+{
+  "name": "grinde-loglabels",
+  "version": "1.0.0",
+  "description": "A simple module to add static prefixes to logs",
+  "main": "index.js",
+  "author": "Rob Grindeland",
+  "license": "ISC",
+  "devDependencies": {
+    "uglify-js": "^2.8.5"
+  }
+}
