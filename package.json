@@ -1,6 +1,6 @@
 {
   "name": "grinde-loglabels",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple module to add static prefixes to logs",
   "main": "index.js",
   "author": "Rob Grindeland",
