@@ -7,7 +7,7 @@ preserved.
 
 ## Installation and Use
 
-`npm install loglabels`
+`npm install git+https://github.com/grind086/grinde-loglabels.git`
 
 ```javascript
 var logger = require('loglabels');
@@ -164,6 +164,6 @@ childB.log('From child C!');
 UglifyJS to `dist/loglabels.min.js`.
 
 ```
-npm install
+npm install --dev
 node ./build
 ```
